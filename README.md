@@ -36,7 +36,7 @@ Designed to streamline retail operations — from inventory control to sales tra
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
   </a>
   <a href="https://community.jaspersoft.com/project/jasperreports-library" target="_blank" rel="noreferrer">
-    <img src="https://static.javatpoint.com/tutorial/jasperreports/images/jasperreports-tutorial.png" alt="JasperReports" width="45" height="45"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/7/7d/JasperReports_logo.png" alt="JasperReports" width="45" height="45"/>
   </a>
   <a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="45" height="45"/>
@@ -72,20 +72,40 @@ Designed to streamline retail operations — from inventory control to sales tra
 - JasperReports Library
 - Eclipse IDE (or any Java IDE)
 
-<h3 align="center">📸 Screenshots</h3> <p align="center">Below are some preview screens of the system interface:</p>
-🔐 Login Page
-<p align="center"> <img src="img/login.png" alt="Login Page" width="600"/> </p>
-💰 Billing / POS Interface
-<p align="center"> <img src="img/Cashier.png" alt="Billing Screen" width="600"/> </p>
-📈 Dashboard Overview
-<p align="center"> <img src="img/Admin.png" alt="Dashboard Overview" width="600"/> </p>
+<h3 align="center">📸 Screenshots</h3>
+
+<p align="center">Below are some preview screens of the system interface:</p>
+
+<p align="center">🔐 <b>Login Page</b></p>
+<p align="center">
+  <img src="img/login.png" alt="Login Page" width="600"/>
+</p>
+
+<p align="center">💰 <b>Billing / POS Interface</b></p>
+<p align="center">
+  <img src="img/Cashier.png" alt="Billing Screen" width="600"/>
+</p>
+
+<p align="center">📈 <b>Dashboard Overview</b></p>
+<p align="center">
+  <img src="img/Admin.png" alt="Dashboard Overview" width="600"/>
+</p>
+
+---
 
 <h3 align="center">📄 License</h3>
 
-This project is licensed under the MIT License — you are free to use, modify, and distribute it.
+<p align="center">
+  This project is licensed under the <b>MIT License</b> — you are free to use, modify, and distribute it.
+</p>
+
+---
 
 <h3 align="center">💡 Developed By</h3>
 
-Jaylord Casin
-Java Developer
-📧 superrjay01@gmail.com
+<p align="center">
+  <b>Jaylord Casin</b><br>
+  Java Developer | System Analyst<br>
+  📧 <a href="mailto:your.email@example.com">superrjay01@gmail.com</a>
+</p>
+
